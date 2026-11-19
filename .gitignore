@@ -1,0 +1,12 @@
+**/node_modules/
+**/.env
+**/*.log
+**/coverage/
+**/__pycache__/
+.npm-cache/
+postgres-test/data/
+postgres-test/runtime/
+flight-booking-test-web/data/
+flight-booking-test-web/runtime/
+flight-booking-test-web/test-results/
+flight-booking-app/test-results/
